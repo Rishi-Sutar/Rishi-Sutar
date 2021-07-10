@@ -1,4 +1,4 @@
-## Hi there, I'm Carlos👋
+## Hi there, I'm Rishi👋
 
 <img
 	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
@@ -10,10 +10,10 @@
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-<a href="https://github.com/solrachix">
-      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
+<a href="https://github.com/Rishi-Sutar">
+      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Rishi-Sutar" />
 </a>
-<a href="https://www.linkedin.com/in/carlos-miguel-380413197">
+<a href="https://www.linkedin.com/in/rishisutar/">
       <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:carlos.miguel.oliveira.17@gmail.com">
