@@ -14,21 +14,18 @@
       <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Rishi-Sutar" />
 </a>
 <a href="https://www.linkedin.com/in/rishisutar/">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+      <img alt="Rishi Sutar" src="https://img.shields.io/badge/-Rishi%20Sutar-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:carlos.miguel.oliveira.17@gmail.com">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlos.miguel.oliveira.17@gmail.com" />
+<a href="mailto:rishisutar183@gmail.com">
+      <img alt="Rishi Sutar" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rishisutar183@gmail.com" />
 </a>
-<a href="https://app.rocketseat.com.br/me/solrachix">
+<!-- <a href="https://app.rocketseat.com.br/me/solrachix">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
-</a>
+</a> -->
 
+#### Follow me on [instagram](https://www.instagram.com/rishisutar_/)
 
-🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/solrachix/solrachix/blob/master/README.pt-br.md).
-
-#### Follow me on [instagram](https://www.instagram.com/solrachix/) for tips and code layouts
-
-In the last year of high school integrated with the computer technician! I'm a full-stack programmer, passionate about the best back-end, front-end and mobile development technologies. Fascinated by learning and JavaScript.
+In the last year of my Engineering course. I'm a full-stack programmer, passionate about the MERN, Python and AR technologies. Fascinated by learning and coding.
 
 ---
 
