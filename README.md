@@ -6,13 +6,12 @@
 	height="390px"
 	align="right"
 />
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
-
-#### Follow me on [instagram](https://www.instagram.com/rishisutar_/)
 
 In the last year of my Engineering course. I'm a full-stack programmer, passionate about the MERN, Python and AR technologies. Fascinated by learning and coding.
+
+:mailbox: Reach me out!
+
+[![Site Badge](https://img.shields.io/badge/%20-Rishi%20Sutar-blueviolet)](https://site/) [![Twitter Badge](https://img.shields.io/badge/-@Rishi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-@Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
 
 ---
 
