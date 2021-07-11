@@ -7,21 +7,10 @@
 	align="right"
 />
 :mailbox: Reach me out!
-<!--
+
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
--->
-<a href="https://github.com/Rishi-Sutar">
-      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Rishi-Sutar" />
-</a>
-<a href="https://www.linkedin.com/in/rishisutar/">
-      <img alt="Rishi Sutar" src="https://img.shields.io/badge/-Rishi%20Sutar-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="mailto:rishisutar183@gmail.com">
-      <img alt="Rishi Sutar" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rishisutar183@gmail.com" />
-</a>
-<!-- <a href="https://app.rocketseat.com.br/me/solrachix">
-      <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
-</a> -->
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 #### Follow me on [instagram](https://www.instagram.com/rishisutar_/)
 
