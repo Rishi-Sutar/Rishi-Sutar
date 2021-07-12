@@ -111,9 +111,12 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 </a>
 </p>
 
+#### Profile Visits  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
 ---
 </br>
 </br>
+
+
 
 <img
 	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
