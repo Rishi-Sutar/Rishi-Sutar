@@ -11,24 +11,12 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 
 :mailbox: Reach me out!
 
-[![Site Badge](https://img.shields.io/badge/%20-Rishi%20Sutar-blueviolet)](https://site/) [![Twitter Badge](https://img.shields.io/badge/-@Rishi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-@Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
+[![Site Badge](https://img.shields.io/badge/%20-Rishi%20Sutar-blueviolet)](https://) [![Twitter Badge](https://img.shields.io/badge/-@Rishi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-@Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
 
 ---
 
 ### :computer: Technical Skills
 
-
-#### 🎨 ✍🏼 Designing: <br/>
-
-<a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-</a>
 
 
 ####  :speech_balloon: Languages
@@ -42,14 +30,28 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 />
 -->
 <a href="#">
+      <img alt="cplusplus" src="https://img.shields.io/badge/C++-darkblue.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="python" src="https://img.shields.io/badge/Python-0076D0.svg?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
+
+#### 🎨 ✍🏼 Designing: <br/>
+
 <a href="#">
-      <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img alt="Figma" src="https://img.shields.io/badge/Premiere-blueviolet.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/sql-0076D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
+      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </a>
+<a href="#">
+      <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+</a>
+
+
 
 #### :hammer: Frameworks
 
@@ -111,7 +113,17 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 </a>
 </p>
 
-#### Profile Visits  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
+#### Profile Visits : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
+
+<a href="https://www.linkedin.com/in/rishisutar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sutar&count_private=true&show_icons=true&theme=tokyonight&hide" alt="Rishi's Github Stats" />
+</a>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/rishisutar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sutar&layout=compact&theme=tokyonight" />
+</a>
+
 ---
 </br>
 </br>
