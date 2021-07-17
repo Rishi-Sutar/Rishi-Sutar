@@ -113,7 +113,8 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 </a>
 </p>
 
-#### Profile Visits : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
 
 <a href="https://www.linkedin.com/in/rishisutar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sutar&count_private=true&show_icons=true&theme=tokyonight&hide" alt="Rishi's Github Stats" />
