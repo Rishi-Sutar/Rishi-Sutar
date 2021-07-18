@@ -65,11 +65,12 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
       <img alt="Next" src="https://img.shields.io/badge/next-333.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 </a>
 <a href="#">
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<!-- <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
-</a>
+</a> -->
+
 
 
 #### :wrench: Tools & Environments
@@ -79,9 +80,6 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 </a>
 <a href="#">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
 <a href="#">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
