@@ -62,10 +62,10 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-542C85.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-239933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Express" src="https://img.shields.io/badge/express-45A745.svg?style=for-the-badge&logo=express&logoColor=white" />
+      <img alt="Express" src="https://img.shields.io/badge/express-55A745.svg?style=for-the-badge&logo=express&logoColor=white" />
 </a>
 <!-- <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
