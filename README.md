@@ -49,7 +49,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-542C85.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-239933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-123716.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
 <a href="#">
       <img alt="Express" src="https://img.shields.io/badge/express-55A745.svg?style=for-the-badge&logo=express&logoColor=white" />
