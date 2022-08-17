@@ -7,7 +7,7 @@
 	align="right"
 />
 
-In the last year of my Engineering course. I'm a full-stack programmer, passionate about the MERN and Python. Fascinated by learning and coding.
+Detail-oriented Computer Engineer skilled in modern Web Technologies along with good understanding in python development.
 
 :mailbox: Reach me out!
 
@@ -42,19 +42,6 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
       <img alt="typescript" src="https://img.shields.io/badge/Typescript-3545A7.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 
-#### 🎨 ✍🏼 Designing: <br/>
-
-<a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Premiere-blueviolet.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-</a>
-
-
 
 #### :hammer: Frameworks
 
@@ -70,6 +57,20 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 <!-- <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a> -->
+
+
+
+#### 🎨 ✍🏼 Designing: <br/>
+
+<a href="#">
+      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Figma" src="https://img.shields.io/badge/Premiere-blueviolet.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+</a>
 
 
 
