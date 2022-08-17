@@ -115,6 +115,10 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-Sutar.Rishi-Sutar)
 
+
+<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sutar&layout=compact&theme=radical" />
+
+
 <!-- <a href="https://www.linkedin.com/in/rishisutar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sutar&count_private=true&show_icons=true&theme=tokyonight&hide" alt="Rishi's Github Stats" />
 </a>
