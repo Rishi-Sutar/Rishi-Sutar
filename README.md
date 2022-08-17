@@ -7,11 +7,11 @@
 	align="right"
 />
 
-In the last year of my Engineering course. I'm a full-stack programmer, passionate about the MERN, Python and AR technologies. Fascinated by learning and coding.
+In the last year of my Engineering course. I'm a full-stack programmer, passionate about the MERN and Python. Fascinated by learning and coding.
 
 :mailbox: Reach me out!
 
-[![Site Badge](https://img.shields.io/badge/%20-Rishi%20Sutar-orange?style=flat&logo=atandt&logoColor=white)](https://) [![Twitter Badge](https://img.shields.io/badge/-@Im_richiee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi_Sutar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Im_richiee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi_Sutar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
 
 ---
 
