@@ -30,7 +30,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 
 ---
 
-<!-- ### :computer: Technical Skills
+### :computer: Technical Skills
 
 
 
@@ -43,7 +43,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 	height="390px"
 	align="right"
 />
--->
+
 <a href="#">
       <img alt="cplusplus" src="https://img.shields.io/badge/C++-darkblue.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </a>
@@ -75,7 +75,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 
 
 
-#### 🎨 ✍🏼 Designing: <br/>
+<!-- #### 🎨 ✍🏼 Designing: <br/>
 
 <a href="#">
       <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
@@ -126,7 +126,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
       <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
 </a>
 </p>
- -->
+ --> -->
  
  
 #### Profile Visits 
