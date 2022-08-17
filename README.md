@@ -14,11 +14,11 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 [![Twitter Badge](https://img.shields.io/badge/-@Im_richiee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_richiee_)](https://twitter.com/Im_richiee_)  [![Linkedin Badge](https://img.shields.io/badge/-Rishi_Sutar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisutar/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishisutar_/) [![Mail Badge](https://img.shields.io/badge/-Rishi%20Sutar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishisutar183@gmail.com.com)
 
 
-**🛠 Skills and Tools:** \
+### :computer: Technical Skills
 <br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" height="28" alt="git" /> </a>
 ![Python](https://img.shields.io/badge/Python-161237?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -27,13 +27,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator&logoColor=white)&nbsp;
 
----
 
-### :computer: Technical Skills
-
-
-
-####  :speech_balloon: Languages
 
 <!--
 <img
@@ -125,7 +119,7 @@ Detail-oriented Computer Engineer skilled in modern Web Technologies along with 
       <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
 </a>
 </p>
- --> -->
+ --> 
  
  
 #### Profile Visits 
