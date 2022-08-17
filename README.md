@@ -38,6 +38,9 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 <a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
+<a href="#">
+      <img alt="typescript" src="https://img.shields.io/badge/Typescript-D7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
 
 #### 🎨 ✍🏼 Designing: <br/>
 
