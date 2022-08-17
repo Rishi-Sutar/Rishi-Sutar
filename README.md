@@ -45,10 +45,10 @@ In the last year of my Engineering course. I'm a full-stack programmer, passiona
 #### 🎨 ✍🏼 Designing: <br/>
 
 <a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Premiere-blueviolet.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+      <img alt="Figma" src="https://img.shields.io/badge/Premiere-blueviolet.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </a>
 <a href="#">
       <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
